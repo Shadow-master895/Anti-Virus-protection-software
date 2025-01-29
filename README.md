@@ -8,8 +8,8 @@
 4# Run the script:
    bash
    python theMainFileName.py 
-   (you can use any file name you want)
-------------------------------------
+  
+   (you can use any file name you want)-
   Project by Raghul
 
 
